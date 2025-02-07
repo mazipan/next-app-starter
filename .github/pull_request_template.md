@@ -1,4 +1,4 @@
-Closes <!-- mention the issue that you're trying to close with this PR -->
+Closes: <!-- mention the issue that you're trying to close with this PR -->
 
 ## Description
 
